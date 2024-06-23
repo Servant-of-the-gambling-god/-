@@ -4,7 +4,7 @@ final ppt
 basic-block type  
 advance-joker(JJ)  
 
-@高新哲  
+@高歆哲  
 @吳宇凡   
 user interface   
 standard I/O (txt file)  
